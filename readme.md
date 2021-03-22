@@ -1,5 +1,6 @@
 # JavaScript Sound Bars
 Simple javascript sound bars project inspired by [Franks Laboratory](https://youtu.be/VXWvfrmpapI) work.
+
 ![SoundBars](/img/soundBars.gif)
 
 # 🥞 Stack
@@ -8,7 +9,7 @@ Simple javascript sound bars project inspired by [Franks Laboratory](https://you
 * JavaScript
 
 ### Instructions
-Simple download the project file and open
+Simple download the project files and open
 > Index.html 
 
 choose a mp3 song and play.
